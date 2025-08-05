@@ -1,0 +1,4 @@
+Cluster,Total_Spent_mean,Total_Spent_sum,Total_Spent_count,Avg_Transaction_mean,Transaction_Count_mean,Engagement_Days_mean,Purchase_Count_mean,Purchase_Rate_mean,Revenue_per_Day_mean,Fan_Count,Revenue_Share
+0,0.0,0.0,6,0.0,1.17,24.67,0.0,0.0,0.0,6,0.0
+1,5.9,194.65,33,1.11,4.58,377.91,0.24,0.05,0.01,33,25.8
+2,50.82,558.98,11,14.33,3.82,370.45,1.91,0.5,0.16,11,74.2
